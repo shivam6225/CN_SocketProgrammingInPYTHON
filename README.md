@@ -1,2 +1,2 @@
 # CN_SocketProgrammingInPYTHON
-All experiments questions in python
+All Socket Programming questions in python
